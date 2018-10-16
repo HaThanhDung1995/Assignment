@@ -11,6 +11,7 @@ class StoreForm extends Component {
             sa: ''
         }
     }
+    
     onChange = (e) => {
         var target = e.target;
         var name = target.name;

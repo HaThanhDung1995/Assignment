@@ -13,12 +13,13 @@ namespace TestLogin.Models
         [StringLength(50)]
         public string Name { get; set; }
 
-        [StringLength(50)]
-        public string Price { get; set; }
+        public int? Price { get; set; }
 
         public int? CategoryId { get; set; }
 
         public int? StoreId { get; set; }
+
+        public string Img { get; set; }
 
         public virtual Category Category { get; set; }
 

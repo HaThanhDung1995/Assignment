@@ -1,15 +1,15 @@
-import * as CatTypes from '../../Constants/CategoryTypes';
+import * as StoreTypes from '../../Constants/StoreTypes';
 var initialState = {};
 
-const categoryEditing = (state = initialState, action) => {
+const storeEditing = (state = initialState, action) => {
 
     switch (action.type) {
-        case CatTypes.EDIT_CATEGORY:
+        case StoreTypes.EDIT_STORE:
 
 
-            return action.category;
+            return action.store;
 
         default: return state;
     }
 }
-export default categoryEditing;
+export default storeEditing;

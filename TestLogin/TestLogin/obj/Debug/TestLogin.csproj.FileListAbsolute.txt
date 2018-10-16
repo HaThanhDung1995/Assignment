@@ -104,3 +104,533 @@ D:\React\ReactRouterAuth\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CoreComp
 D:\React\ReactRouterAuth\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CopyComplete
 D:\React\ReactRouterAuth\TestLogin\TestLogin\obj\Debug\TestLogin.dll
 D:\React\ReactRouterAuth\TestLogin\TestLogin\obj\Debug\TestLogin.pdb
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\ApplicationInsights.config
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\TestLogin.dll.config
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\TestLogin.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\TestLogin.pdb
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\csc.exe.config
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\csc.rsp
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\csi.exe
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\csi.exe.config
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\csi.rsp
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Console.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\vbc.exe.config
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\vbc.rsp
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Antlr3.Runtime.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\EntityFramework.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AI.Web.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Cors.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Http.Cors.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Http.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Optimization.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.WebPages.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\WebGrease.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\EntityFramework.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Http.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Http.Cors.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Optimization.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.WebPages.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.AI.Web.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\obj\Debug\TestLogin.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CopyComplete
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\obj\Debug\TestLogin.dll
+C:\Users\hp\Desktop\New folder (2)\Assignment\TestLogin\TestLogin\obj\Debug\TestLogin.pdb
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\ApplicationInsights.config
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\TestLogin.dll.config
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\TestLogin.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\TestLogin.pdb
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\csc.exe.config
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\csc.rsp
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\csi.exe
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\csi.exe.config
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\csi.rsp
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Console.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\vbc.exe.config
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\vbc.rsp
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Antlr3.Runtime.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\EntityFramework.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AI.Web.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Cors.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Http.Cors.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Http.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Optimization.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.WebPages.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\WebGrease.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\EntityFramework.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Http.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Http.Cors.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Optimization.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.WebPages.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.AI.Web.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\obj\Debug\TestLogin.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CopyComplete
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\obj\Debug\TestLogin.dll
+C:\Users\hp\Desktop\New folder (2)\TestLogin\TestLogin\obj\Debug\TestLogin.pdb
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\ApplicationInsights.config
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\TestLogin.dll.config
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\TestLogin.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\TestLogin.pdb
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\csc.exe.config
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\csc.rsp
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\csi.exe
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\csi.exe.config
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\csi.rsp
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Console.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\vbc.exe.config
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\vbc.rsp
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Antlr3.Runtime.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\EntityFramework.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AI.Web.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Cors.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Http.Cors.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Http.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Optimization.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.WebPages.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\WebGrease.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\EntityFramework.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Http.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Http.Cors.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Optimization.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.WebPages.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.AI.Web.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\obj\Debug\TestLogin.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CopyComplete
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\obj\Debug\TestLogin.dll
+C:\Users\hp\Desktop\CaoXuanTruong\TestLogin\TestLogin\obj\Debug\TestLogin.pdb
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\ApplicationInsights.config
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\TestLogin.dll.config
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\TestLogin.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\TestLogin.pdb
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csc.exe.config
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csc.rsp
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csi.exe
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csi.exe.config
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csi.rsp
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Console.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\vbc.exe.config
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\vbc.rsp
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Antlr3.Runtime.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\EntityFramework.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.Web.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Cors.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.Cors.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Optimization.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\WebGrease.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\EntityFramework.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.Cors.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Optimization.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.Web.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CopyComplete
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.dll
+C:\Users\hp\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.pdb
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.pdb
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.csprojAssemblyReference.cache
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CoreCompileInputs.cache
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\ApplicationInsights.config
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\TestLogin.dll.config
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\TestLogin.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\TestLogin.pdb
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csc.exe
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csc.exe.config
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csc.rsp
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csi.exe
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csi.exe.config
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\csi.rsp
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.AppContext.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Console.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\vbc.exe
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\vbc.exe.config
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\vbc.rsp
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Antlr3.Runtime.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\EntityFramework.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\EntityFramework.SqlServer.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.Web.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Newtonsoft.Json.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Cors.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Helpers.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.Cors.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Mvc.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Optimization.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Razor.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\WebGrease.dll
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\EntityFramework.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\EntityFramework.SqlServer.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.Cors.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Newtonsoft.Json.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Helpers.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Mvc.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Optimization.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.Razor.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Antlr3.Runtime.pdb
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.AI.Web.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dung\Desktop\CaoXuanTruong_2\TestLogin\TestLogin\obj\Debug\TestLogin.csproj.CopyComplete

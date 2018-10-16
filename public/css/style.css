@@ -1,0 +1,12 @@
+/* YOUR CUSTOM STYLES */
+form{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.panel{
+    margin-top:100px;
+}
+img{
+    width: 95% !important;
+    height: 300px !important;
+}

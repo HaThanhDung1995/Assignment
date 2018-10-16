@@ -8,7 +8,7 @@ namespace TestLogin.Models
     public partial class LoginContext : DbContext
     {
         public LoginContext()
-            : base("name=LoginContext")
+            : base("name=LoginContext5")
         {
         }
 
@@ -17,8 +17,8 @@ namespace TestLogin.Models
         public virtual DbSet<Login> Logins { get; set; }
         public virtual DbSet<Order> Orders { get; set; }
         public virtual DbSet<Product> Products { get; set; }
+        public virtual DbSet<Staff> Staffs { get; set; }
         public virtual DbSet<Store> Stores { get; set; }
-        public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -48,6 +48,10 @@ namespace TestLogin.Models
                 .IsUnicode(false);
 
             modelBuilder.Entity<Customer>()
+                .Property(e => e.Img)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<Customer>()
                 .HasMany(e => e.Orders)
                 .WithOptional(e => e.Customer)
                 .WillCascadeOnDelete();
@@ -69,8 +73,25 @@ namespace TestLogin.Models
                 .IsUnicode(false);
 
             modelBuilder.Entity<Product>()
-                .Property(e => e.Price)
+                .Property(e => e.Img)
                 .IsUnicode(false);
+
+            modelBuilder.Entity<Staff>()
+                .Property(e => e.Name)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<Staff>()
+                .Property(e => e.Addr)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<Staff>()
+                .Property(e => e.Phone)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<Staff>()
+                .HasMany(e => e.Orders)
+                .WithOptional(e => e.Staff)
+                .WillCascadeOnDelete();
 
             modelBuilder.Entity<Store>()
                 .Property(e => e.Name)

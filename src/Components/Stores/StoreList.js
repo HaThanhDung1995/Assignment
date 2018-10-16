@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import { actFetchStoresRequest,actDeleteStoreRequest } from '../../Actions/Store';
 import { connect } from 'react-redux';
 import StoreItem from '../Stores/StoreItem';
+import {
+ 
+    Link
+  
+  } from "react-router-dom";
 
 class StoreList extends Component {
     componentDidMount() {
@@ -32,7 +37,7 @@ class StoreList extends Component {
         return (
             <div className="panel panel-primary">
                 <div className="panel-heading">
-                    <h3 className="panel-title">Danh Sách Sản Phẩm</h3>
+                    <h3 className="panel-title"><Link to="/store/add">StoreAdd</Link></h3>
                 </div>
                 <div className="panel-body">
                     <table className="table table-bordered table-hover">

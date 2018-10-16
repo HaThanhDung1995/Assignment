@@ -1,19 +1,30 @@
 import React, { Component } from 'react';
 import Login from './Components/Login';
 import Fuck from './Components/Fuck';
-import Category from './Components/Categories/CategoryList';
 import './App.css';
-import CallApi from './Utils/apiCaller';
+import Category from './Components/Categories/CategoryList';
 import CategoryForm from './Components/Categories/CategoryForm';
+import CallApi from './Utils/apiCaller';
+
+import Staff from './Components/Staffs/StaffList';
+import StaffForm from './Components/Staffs/StaffForm';
 import Store from './Components/Stores/StoreList';
 import StoreForm from './Components/Stores/StoreForm';
+import ProductForm from './Components/Products/ProductForm';
+import CustomerForm from './Components/Customers/CustomerForm';
+import CustomerList from './Components/Customers/CustomerList';
+import OrderForm from './Components/Orders/OrderForm';
+import OrderList from './Components/Orders/OrderList';
+import Header from './Components/Header';
+import Cart from './Components/Cart/Cart';
 import {
   BrowserRouter as Router,
   Route,
-  Link,
+  
   Redirect
 
 } from "react-router-dom";
+import ProductList from './Components/Products/ProductList';
 
 
 const Public = () => <h3>Public</h3>;
@@ -88,11 +99,11 @@ class App extends Component {
     if (this.state.Toggle) {
       return (<form onSubmit={this.onSubmit}>
         <div className="form-group">
-          <label>Username</label>
+          
           <input type="text" name="txtusername" onChange={this.onChange} className="form-control" placeholder="Username"></input>
         </div>
         <div className="form-group">
-          <label>Username</label>
+          
           <input type="text" name="txtpass" onChange={this.onChange} className="form-control" placeholder="Password"></input>
         </div>
 
@@ -140,52 +151,45 @@ class App extends Component {
     return (
       
       <Router>
+        
         <div>
-          <div className="navbar navbar-default">
-
-            <ul className="nav navbar-nav">
-              <li>
-                <Link to="/public">Public Page</Link>
-              </li>
-              <li>
-                <Link to="/protected">Protected Page</Link>
-              </li>
-              <li>
-                <Link to="/fuck">Fuck</Link>
-              </li>
-              <li>
-                <Link to="/categorylist">Category</Link>
-              </li>
-              <li>
-                <Link to="/category/add">CategoryAdd</Link>
-              </li>
-              <li>
-                <Link to="/storelist">Store</Link>
-              </li>
-              <li>
-                <Link to="/store/add">StoreAdd</Link>
-              </li>
-            </ul>
-          </div>
-
+          
+          <Header></Header>
           <div className="row">
               {this.showToggle()}
           </div>
 
 
-          <ul>
+          
+          <Route path="/" exact={true} component={Public} />
+          <Route path="/login" exact={false} component={Login} />
+          <Route path="/cart" exact={false} component={Cart} />
+          <PrivateRoute path="/fuck" exact={false} component={Fuck} />
+          <PrivateRoute2 path="/protected" exact={false} component={Protected} />
+          <PrivateRoute path="/categorylist" exact={false} component={Category} />
+          <PrivateRoute path="/category/add" exact={false} component={CategoryForm} />
+          <PrivateRoute path="/category/:id/edit" exact={false} component={CategoryForm} />
 
-          </ul>
-          <Route path="/public" component={Public} />
-          <Route path="/login" component={Login} />
-          <PrivateRoute path="/fuck" component={Fuck} />
-          <PrivateRoute2 path="/protected" component={Protected} />
-          <PrivateRoute path="/categorylist" component={Category} />
-          <PrivateRoute path="/category/add" component={CategoryForm} />
-          <PrivateRoute path="/category/:id/edit" component={CategoryForm} />
-          <PrivateRoute path="/storelist" component={Store}></PrivateRoute>
-          <PrivateRoute path="/store/add" component={StoreForm}></PrivateRoute>
-          <PrivateRoute path="/store/:id/edit" component={StoreForm} />
+          <PrivateRoute path="/stafflist" exact={false} component={Staff} />
+          <PrivateRoute path="/staff/add" exact={false} component={StaffForm} />
+          <PrivateRoute path="/staff/:id/edit" exact={false} component={StaffForm} />
+
+          <PrivateRoute path="/storelist" exact={false} component={Store}></PrivateRoute>
+          <PrivateRoute path="/store/add" exact={false} component={StoreForm}></PrivateRoute>
+          <PrivateRoute path="/store/:id/edit" exact={false} component={StoreForm} />
+
+          <PrivateRoute path="/productlist" exact={false} component={ProductList}></PrivateRoute>
+          <PrivateRoute path="/product/add" exact={false} component={ProductForm}></PrivateRoute>
+          <PrivateRoute path="/product/:id/edit" exact={false} component={ProductForm}></PrivateRoute>
+
+          <PrivateRoute path="/customerlist" exact={false} component={CustomerList}></PrivateRoute>
+          <PrivateRoute path="/customer/add" exact={false} component={CustomerForm}></PrivateRoute>
+          <PrivateRoute path="/customer/:id/edit" exact={false} component={CustomerForm}></PrivateRoute>
+
+          <PrivateRoute path="/orderlist" exact={false} component={OrderList}></PrivateRoute>
+          <PrivateRoute path="/order/add" exact={false} component={OrderForm}></PrivateRoute>
+          <PrivateRoute path="/order/:id/edit" exact={false} component={OrderForm}></PrivateRoute>
+          
         </div>
       </Router>
     );

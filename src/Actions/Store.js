@@ -53,7 +53,7 @@ export const actEditStore = (store)=>{
 }
 export const actEditStoreRequest = (Id) => {
     return dispatch => {
-        return callApi(`GetYouWill?Id=${Id}`, 'GET', null).then(res => {
+        return callApi(`GetStore?Id=${Id}`, 'GET', null).then(res => {
             
             dispatch(actEditStore(res.data.objective));
         });
@@ -67,7 +67,11 @@ export const actUpdateStore = (store)=>{
 }
 export const actUpdateStoreRequest = (store) => {
     return dispatch => {
-        return callApi('Update', 'POST', null).then(res => {
+        return callApi('UpdateStore', 'POST', {
+            Id:store.Id,
+            Name:store.Name,
+            Addr:store.Addr
+        }).then(res => {
            
              dispatch(actUpdateStore(res.data.objective));
         });

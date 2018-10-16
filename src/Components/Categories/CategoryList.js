@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import { actFetchCategoriesRequest,actDeleteCategoryRequest } from './../../Actions/index';
 import { connect } from 'react-redux';
 import CategoryItem from './../Categories/CategoryItem';
+import {
+    
+    Link
+  
+  } from "react-router-dom";
 
 class CategoryList extends Component {
     componentDidMount() {
@@ -32,7 +37,7 @@ class CategoryList extends Component {
         return (
             <div className="panel panel-primary">
                 <div className="panel-heading">
-                    <h3 className="panel-title">Danh Sách Sản Phẩm</h3>
+                    <h3 className="panel-title"><Link to="/category/add">CategoryAdd</Link></h3>
                 </div>
                 <div className="panel-body">
                     <table className="table table-bordered table-hover">
